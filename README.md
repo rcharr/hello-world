@@ -1,2 +1,3 @@
 # hello-world
 Training
+Just checking things out today...
